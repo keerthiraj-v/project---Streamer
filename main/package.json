@@ -1,0 +1,19 @@
+{
+  "name": "streamer",
+  "version": "1.0.0",
+  "description": "A simple video streaming application server",
+  "main": "index.js",
+  "scripts": {
+    "stream": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "H.Ragul",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "realm": "^12.7.1"
+  }
+}

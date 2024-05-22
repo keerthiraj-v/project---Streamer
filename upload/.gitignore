@@ -1,0 +1,5 @@
+node_modules/
+uploads/
+__pycache__/
+default.realm
+default.realm.lock
